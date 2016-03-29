@@ -13,7 +13,7 @@ import javax.annotation.Resource;
 
 import org.springframework.stereotype.Service;
 
-import com.my.app.dao.IUserDao;
+import com.my.app.dao.user.IUserDao;
 import com.my.app.dto.User;
 import com.my.app.service.IUserService;
 

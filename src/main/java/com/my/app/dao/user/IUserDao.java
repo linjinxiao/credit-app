@@ -1,4 +1,4 @@
-package com.my.app.dao;
+package com.my.app.dao.user;
 
 import com.my.app.dto.User;
 
